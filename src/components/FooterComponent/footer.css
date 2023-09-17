@@ -1,0 +1,25 @@
+.Footer {
+    position: absolute;
+    bottom: 0rem;
+    width: 100%;
+    height: 5.5rem ;
+    background-color: rgb(253, 245, 234);
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.icons-style {
+    color: black;
+    font-size: 20px;
+}
+.email-address{
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+}
